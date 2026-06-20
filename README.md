@@ -242,7 +242,7 @@ outputs render inline without needing to run anything.
 
 | File | Description |
 |---|---|
-| `bank_churn_analysis.ipynb` | Full analysis notebook |
+| bank_churn_analysis.ipynb | Full analysis notebook |
 | `Bank_Churn_Customer_Data.xlsx` | Cleaned dataset |
 
 ---
